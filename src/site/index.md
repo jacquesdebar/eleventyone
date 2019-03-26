@@ -1,5 +1,5 @@
 ---
-title: EleventyOne
+title: Test
 subtitle: A project scaffold for getting building with Eleventy quickly.
 layout: layouts/base.njk
 ---
@@ -54,6 +54,3 @@ It will then be available locally for building with:
 ```
 yarn start
 ```
-
-
-
